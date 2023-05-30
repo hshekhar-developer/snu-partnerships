@@ -2,6 +2,7 @@
 ### To watch 
 
 ~/src/Partnerships.css
+
 ~/src/Partnerships.js
 
 ./package.json
